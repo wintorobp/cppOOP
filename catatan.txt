@@ -1,1 +1,3 @@
 ini adalah catatan penting saya untuk belajar OOP cpp 
+
+ini adalah beberapa perubahan
